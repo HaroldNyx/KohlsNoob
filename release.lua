@@ -2,7 +2,8 @@
 -- say ">cmds" for the list of current commands
 -- Credits to Gamingkhoaito and Harold for this amazing script :D
 -- i'd really love your feedback and suggestions!
--- anyways enjoy!
+-- anyways enjoy
+-- https://discord.gg/ZarWbeRBWP
 --[[
   _  __   ____    _    _   _         _____     _   _    ____     ____    ____  
  | |/ /  / __ \  | |  | | | |       / ____|   | \ | |  / __ \   / __ \  |  _ \ 
@@ -10,7 +11,6 @@
  |  <   | |  | | |  __  | | |       \___ \    | . ` | | |  | | | |  | | |  _ < 
  | . \  | |__| | | |  | | | |____   ____) |   | |\  | | |__| | | |__| | | |_) |
  |_|\_\  \____/  |_|  |_| |______| |_____/    |_| \_|  \____/   \____/  |____/ 
- https://discord.gg/ZarWbeRBWP
 ]]
 
 -- Protected by wYnFuscate: https://wynfuscate.com
