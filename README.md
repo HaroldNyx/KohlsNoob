@@ -1,4 +1,4 @@
-[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Kohls-Admin-House-X-KohlsNoob-229251)](https://scriptblox.com/script/Kohls-Admin-House-X-KohlsNoob-229251)
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Kohls-Admin-House-X-KohlsNoob-229251)](https://scriptblox.com/script/Kohls-Admin-House-X-KohlsNoob-229251)]
 # Disclaimer
 
 This project contains obfuscated Lua code intended for use with
