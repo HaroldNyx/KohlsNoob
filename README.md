@@ -11,3 +11,4 @@ For legitimate moderation, security, or abuse-related inquiries
 regarding the original source code, contact:
 
 Discord: harold2701
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Kohls-Admin-House-X-KohlsNoob-229251)](https://scriptblox.com/script/Kohls-Admin-House-X-KohlsNoob-229251)
